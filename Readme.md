@@ -80,5 +80,5 @@ FEE_AUTHORITY =
 ## 💬 Contact
 
 If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-- E-Mail: hyperbuildx@adamglab.dev
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+- E-Mail: traceyrun2@gmail.com
+- Telegram: [@David19922](https://t.me/@David19922)
